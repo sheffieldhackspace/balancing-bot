@@ -9,4 +9,4 @@ For the inkscape files the laser cutting should be done in the following order:
 Don't cut the blue lines because these are only used as guidelines for the frame design!
 
 
-14 May 2019
+May 2019
