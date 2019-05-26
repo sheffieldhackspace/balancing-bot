@@ -26,8 +26,12 @@ once this test is completed.
 
 Now go to **changebaudrate** and follow the instructions there.
 
-Install the Joystick BT Commander app on your phone and follow the instructions at [http://www.klikrobotics.com/Controllers2.html](http://www.klikrobotics.com/Controllers2.html) to configure it. For the labels, use P instead of KPS, and I instead of KP. If you switch on the bot and connect to it via bluetooth then you should see some values for P, I and Trim appear in the app.  
+Install the Joystick BT Commander app on your phone and follow the instructions at
+
+[http://www.klikrobotics.com/Controllers2.html](http://www.klikrobotics.com/Controllers2.html)
+
+to configure it. For the labels, use P instead of KPS, and I instead of KP. If you switch on the bot and connect to it via bluetooth then you should see some values for P, I and Trim appear in the app.  
 
 #
 
-The next step is to follow the rest of the instructions in **deadbands** first and then **ember** to get the bot up and running!
+The next step is to follow the rest of the instructions in **deadbands** first and then **ember** to get the robot up and running!
