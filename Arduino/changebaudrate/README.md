@@ -2,7 +2,7 @@ First upload **changebaudrate.ino** and then remove the usb cable and make sure 
 
 Hold down the little button on the HC-05 bluetooth module and plug the cable back in again. Wait a few seconds until the LED starts flashing slowly and release.
 
-Open up the serial monitor and set the baud rate to 9600. Some instructions should appear. Type
+Open up the serial monitor and select **Autoscroll**, **Both NL & CR** and **9600**. Some instructions should appear. Type
 
 **AT+UART=38400,0,0**
 
