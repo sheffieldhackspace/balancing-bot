@@ -10,7 +10,7 @@ to view them in 3D.
 <br>
 
 
-If you want to order some pcbs then usually you need to .zip these files and then upload them.  
+If you want to order some pcbs from somewhere then usually you need to .zip these files and then upload them.  
 <br>
  
 
