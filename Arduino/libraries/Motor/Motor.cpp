@@ -61,12 +61,3 @@ void Motor::speed(float speed)
 
 }
 
-
-
-
-
-
-
-
-
-
