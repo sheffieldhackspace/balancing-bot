@@ -35,6 +35,7 @@ int joyX, joyY, joyXbefore, joyYbefore, joyXdiff, joyYdiff;
 float joyXf, joyYf;
 float backoff;
 
+//controller_sensitivity determines the maximum speed of the bot
 #ifdef USE_LITHIUM_BATT
 float controller_sensitivity = 2.0;
 #else
