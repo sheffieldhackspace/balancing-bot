@@ -1,6 +1,6 @@
-The inkscapeFiles directory contains all the files and instructions needed to laser cut a frame for the balancing bot.
+The **inkscapeFiles** directory contains all the files and instructions needed to laser cut a frame for the self-balancing bot.
 
-All the files needed to order some pcbs from somewhere like jlcpcb are located in kicadFiles.
+All the files needed for the pcb design (including gerber files) are located in **kicadFiles**.
 
 Remember to solder the HC-05 bluetooth module on last!
 The R1 resistor value should be 2K ohms, whilst for R2 it's 1k ohms.
