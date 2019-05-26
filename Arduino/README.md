@@ -2,7 +2,7 @@ To get the self-balancing bot up and running you'll first need to copy the conte
 
 #
 
-Upload **ember/ember.ino** to the Nano. If you're using a 3xAA battery pack then make sure to comment out 
+If you're using a 3xAA battery pack then make sure to comment out 
 
 **#define USE_LITHIUM_BATT**
 
@@ -10,7 +10,7 @@ in the code and set the VSel jumpers to 5V. Otherwise set them to 7.4V.
 
 #
 
-Open up the arduino serial monitor and set the baud rate to 38400. With the motors and batteries disconnected, insert the usb cable and hold the pcb upright and you should see the pitch values being output to the serial monitor.
+Upload **ember/ember.ino** to the Nano. Open up the arduino serial monitor and set the baud rate to 38400. With the motors and batteries disconnected, insert the usb cable and hold the pcb upright and you should see the pitch values being output to the serial monitor.
 
 You can then comment out **Serial.println(CFilteredlAngleY)** once this test is completed.  
 
