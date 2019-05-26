@@ -1,3 +1,5 @@
+To get the self-balancing bot up and running you'll first need to copy the contents of **libraries/** to your **Arduino/libraries/** folder on your system.
+
 Upload **ember/ember.ino** to the Nano. If you're using a 3xAA battery pack then make sure to comment out 
 
 **#define USE_LITHIUM_BATT**
