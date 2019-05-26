@@ -331,7 +331,7 @@ void setup () {
 #ifndef USE_HARDWARE_SERIAL
   Serial.begin(38400);
 #endif
-  BTSerial.begin(115200);
+  BTSerial.begin(38400);
   
   while (BTSerial.available())  BTSerial.read();
 
