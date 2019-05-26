@@ -19,4 +19,4 @@ The pcb designs were created using KiCad v5.0. If you want to modify the design 
 1. Open pcb01.kicad_pcb with pcbnew
 2. Go to File -> File Plot
 3. Press the 'Plot' button and then press the 'Generate Drill Files' button
-4. Select Zeros Format:Keep zeros' and then press the 'Generate Drill File' button. 
+4. Select 'Zeros Format:Keep zeros' and then press the 'Generate Drill File' button. 
