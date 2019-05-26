@@ -1,4 +1,4 @@
-To get the self-balancing bot up and running you'll first need to copy the contents of **libraries** to your **Arduino/libraries/** folder on your system.
+To get the self-balancing bot up and running you'll first need to copy the contents of **libraries** to your **Arduino/libraries** folder on your system.
 
 #
 
