@@ -34,4 +34,4 @@ to configure it. For the labels, use P instead of KPS, and I instead of KP. If y
 
 #
 
-The next step is to follow the rest of the instructions in **deadbands** first and then **ember** to get the robot up and running!
+The next step is to follow the rest of the instructions in the **deadbands** directory first and then in **ember** to get the robot up and running!
