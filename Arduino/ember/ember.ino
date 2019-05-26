@@ -267,7 +267,6 @@ void gyroPIDCallBack() {
 
 #ifndef USE_HARDWARE_SERIAL 
     Serial.println(CFilteredlAngleY);
-    //Serial.println(vxy-spinval);
 #endif
 
     if((vxy-spinval+rtrim)<0)
