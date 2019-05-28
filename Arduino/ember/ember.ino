@@ -13,7 +13,11 @@
  *  
  **********************************************************************/
 
-
+/*
+This code is a modified version of that developed by klikrobotics and was downloaded from their repository at 
+https://github.com/garethnisbet/T-BOTS
+The code here was branched off in Oct 2018 and is therefore out of date but it works!
+*/
 
 #include <TaskScheduler.h>
 #include <Motor.h>
