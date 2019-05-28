@@ -1,6 +1,9 @@
 Arduino nano
+
 TB6612FNG motor driver
+
 MPU6050 accelerometer/gyro
+
 HC-05 bluetooth module
 
 PCB (see kicadFiles directory)
