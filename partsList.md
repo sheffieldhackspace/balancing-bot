@@ -24,7 +24,7 @@ Sheet of 3mm thick acrylic for frame (at least 16x9cm big)
 
 3x jumpers (0.1" pitch)
 
-Strip of 9x1 0.1" pitch headers (or a 3x1 plus a 3x2 header)
+Strip of 9x1 0.1" pitch headers (or a 3x1 header plus a 3x2 header)
 
 2200uF/16v capacitor (47uF is ok if using Li-ion battery)
 
