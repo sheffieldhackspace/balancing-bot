@@ -99,70 +99,70 @@ void getButtonState(int bStatus)  {
     case 'A':
       buttonStatus |= B000001;    
       KP += 0.2; //KPS += 0.01;
-      Serial.println("KPS+");
+      //Serial.println("KPS+");
       break;
     case 'B':
       buttonStatus &= B111110;      
       KP += 0.2; //KPS += 0.01;
-      Serial.println("KPS+");
+      //Serial.println("KPS+");
       break;
 
 // -----------------  BUTTON #2  ----------------------- 
     case 'C':
       buttonStatus |= B000010;    
       KP -= 0.2; //KPS -= 0.01;
-      Serial.println("KPS-");
+      //Serial.println("KPS-");
       break;
     case 'D':
       buttonStatus &= B111101;    
       KP -= 0.2; //KPS -= 0.01;
-      Serial.println("KPS-");
+      //Serial.println("KPS-");
       break;
 
 // -----------------  BUTTON #3  -----------------------
     case 'E':
       buttonStatus |= B000100;        
       KI += 5; //KP += 10;
-      Serial.println("KP+");
+      //Serial.println("KP+");
       break;
     case 'F':
       buttonStatus &= B111011;      
       KI += 5; //KP += 10;
-      Serial.println("KP+");
+      //Serial.println("KP+");
       break;
 
 // -----------------  BUTTON #4  -----------------------
     case 'G':
       buttonStatus |= B001000;      
       KI -= 5; //KP -= 10;
-      Serial.println("KP-");
+      //Serial.println("KP-");
     break;
     case 'H':
       buttonStatus &= B110111;    
       KI -= 5; //KP -= 10;
-      Serial.println("KP-");
+      //Serial.println("KP-");
     break;
 
 // -----------------  BUTTON #5  -----------------------
     case 'I':           // configured as momentary button
       gtrim += 0.05;
-      Serial.println("gtrim+");
+      //Serial.println("gtrim+");
       break;
    case 'J':
      buttonStatus &= B101111;        // OFF
       gtrim += 0.05;    
-      Serial.println("gtrim+");
+      //Serial.println("gtrim+");
      break;
 
 // -----------------  BUTTON #6  -----------------------
     case 'K':
       buttonStatus |= B100000;        // ON
       gtrim -= 0.05;
-      Serial.println("gtrim-");
+      //Serial.println("gtrim-");
      break;
     case 'L':
       gtrim -= 0.05;
-      Serial.println("gtrim-");
+      //Serial.println("gtrim-");
       break;
 
 }
